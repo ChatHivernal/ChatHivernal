@@ -2,8 +2,10 @@
 # ChatHivernal
 Hello! I am a french dev!<br><br>Take a look on my blog ! :
  <center>
-   <a href="https://gianni.nekoweb.org/index.html" class="name">https://gianni.nekoweb.org/index.html</a></h5></center><br><br>
-
+   <a href="https://gianni.nekoweb.org/index.html" class="name">My blog</a></h5></center><br>
+<br>
+Follow-me on Nyapi ! :<br>
+<a href="https://nyapi.fr/profile/Gianni" class="name">@Gianni</a>
 
 
 
