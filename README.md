@@ -19,6 +19,8 @@ Follow-me on Nyapi ! :<br><br>
 
 <h5>A very active developer. I have various open source projects on GitHub</h5></h5>
 
+[![✞ChatHivernal✟ profile views](https://u8views.com/api/v1/github/profiles/250738654/views/day-week-month-total-count.svg)](https://u8views.com/github/ChatHivernal)
+
 
 
 
