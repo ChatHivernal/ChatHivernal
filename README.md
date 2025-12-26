@@ -1,6 +1,6 @@
 
 # ChatHivernal
-Hello! I am a french dev!<br><br>Take a look on my blog ! :
+Hello! I am a french dev!
  <center>
 
 Follow-me on Nyapi ! :<br><br>
