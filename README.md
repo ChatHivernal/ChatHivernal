@@ -5,8 +5,7 @@ Hello! I am a french dev!
 
 Follow-me on Nyapi ! :<br><br>
 <a href="https://nyapi.fr/profile/Gianni" class="name">@Gianni</a>
-
-<br><br>
+<br>
 Contact-me on Telegram ! :<br><br>
 <a href="https://t.me/Giannonymous" class="name">@Giannonymous</a>
 
